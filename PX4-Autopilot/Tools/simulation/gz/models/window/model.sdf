@@ -26,8 +26,8 @@
                     </cylinder>
                 </geometry>
                 <material>
-                    <ambient>0.7 0.7 1.0 1</ambient>
-                    <diffuse>0.7 0.7 1.0 1</diffuse>
+                    <ambient>0.0 0.0 1.0 1</ambient>
+                    <diffuse>0.0 0.0 1.0 1</diffuse>
                     <specular>0.7 0.7 1.0 1</specular>
                 </material>
             </visual>
@@ -39,8 +39,8 @@
               <geometry>
                 <box><size>0.04 1.5 0.04</size></box>
               </geometry>
-              <material> <ambient>0.7 0.7 1.0 1</ambient>
-                <diffuse>0.7 0.7 1.0 1</diffuse>
+              <material> <ambient>0.0 0.0 1.0 1</ambient>
+                <diffuse>0.0 0.0 1.0 1</diffuse>
                 <specular>0.7 0.7 1.0 1</specular>
               </material>
             </visual>
@@ -56,8 +56,8 @@
                 <box><size>0.04 1.5 0.04</size></box>
               </geometry>
               <material>
-                <ambient>0.7 0.7 1.0 1</ambient>
-                <diffuse>0.7 0.7 1.0 1</diffuse>
+                <ambient>0.0 0.0 1.0 1</ambient>
+                <diffuse>0.0 0.0 1.0 1</diffuse>
                 <specular>0.7 0.7 1.0 1</specular>
               </material>
             </visual>
@@ -73,8 +73,8 @@
                 <box><size>0.04 0.04 1.42</size></box>
               </geometry>
               <material>
-                <ambient>0.7 0.7 1.0 1</ambient>
-                <diffuse>0.7 0.7 1.0 1</diffuse>
+                <ambient>0.0 0.0 1.0 1</ambient>
+                <diffuse>0.0 0.0 1.0 1</diffuse>
                 <specular>0.7 0.7 1.0 1</specular>
               </material>
             </visual>
@@ -90,8 +90,8 @@
                 <box><size>0.04 0.04 1.42</size></box>
               </geometry>
               <material>
-                <ambient>0.7 0.7 1.0 1</ambient>
-                <diffuse>0.7 0.7 1.0 1</diffuse>
+                <ambient>0.0 0.0 1.0 1</ambient>
+                <diffuse>0.0 0.0 1.0 1</diffuse>
                 <specular>0.7 0.7 1.0 1</specular>
               </material>
             </visual>
